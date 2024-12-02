@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="Top Langs" height="150px" width="1000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatRicePaddyyyy&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
